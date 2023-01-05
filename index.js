@@ -1,4 +1,5 @@
 const someFunction = () => {
-  // changing a line
+  // changing this line again
   console.log("some function");
+  // adding a commented line
 };
