@@ -1,0 +1,3 @@
+const someFunction = () => {
+  // do something
+};
